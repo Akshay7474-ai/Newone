@@ -7,7 +7,7 @@ public class Studentdet
         private int age;
 
         // Constructor 
-        public Studentdet(int studentId, String name) .mm
+        public Studentdet(int studentId, String name)
 {
             this.studentId = studentId;
             this.name = name;
