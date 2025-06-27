@@ -6,8 +6,9 @@ public class Studentdet
         private String name;
         private int age;
 
-        // Constructor
-        public Studentdet(int studentId, String name) {
+        // Constructor 
+        public Studentdet(int studentId, String name) 
+{
             this.studentId = studentId;
             this.name = name;
         }
